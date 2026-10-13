@@ -1,22 +1,20 @@
-TRACE_ABM_model2
-
-TRACE — Trajectory Reconstruction through Agent-based Cultural Emergence
+# TRACE: Trajectory Reconstruction through Agent-based Cultural Emergence
 
 An agent-based model for analysing artistic career trajectories, work, time, economic survival, and artistic self-realisation.
 
-Run the model
+## Run the model
 
-Launch TRACE in NetLogo Web
+[**Launch TRACE in NetLogo Web**](https://netlogoweb.org/launch#https://simonezleao.github.io/TRACE_ABM_model2/TRACE_model_v2_Web.nlogox)
 
-The model runs in your web browser using NetLogo Web.
+The model runs in your browser using NetLogo Web.
 
-Model file
+## Model file
 
 The NetLogo Web-compatible model is available in this repository:
 
-TRACE_model_v2_Web.nlogox
+`TRACE_model_v2_Web.nlogox`
 
-Citation
+## Citation
 
 Citation details and a permanent DOI will be added when the model is archived in Zenodo.
 
