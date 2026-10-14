@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it using the metadata below."
+title: "TRACE v2: Trajectory Reconstruction through Agent-based Cultural Emergence"
+authors:
+  - family-names: "Leao"
+    given-names: "Simone Z."
+version: 2.0.0
+date-released: 2026-10-14
