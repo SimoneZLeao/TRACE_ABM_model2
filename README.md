@@ -1,21 +1,38 @@
-# TRACE: Trajectory Reconstruction through Agent-based Cultural Emergence
+# TRACE v2: Trajectory Reconstruction through Agent-based Cultural Emergence
 
-An agent-based model for analysing artistic career trajectories, work, time, economic survival, and artistic self-realisation.
+TRACE v2 is an agent-based model for investigating artistic career trajectories through interactions between work, time, economic survival, symbolic capital, and artistic self-realisation.
 
-## Run the model
+## Run TRACE v2 Online
 
-[**Launch TRACE in NetLogo Web**](https://netlogoweb.org/launch#https://simonezleao.github.io/TRACE_ABM_model2/TRACE_model_v2_Web.nlogox)
+[**Launch TRACE v2 in NetLogo Web**](https://netlogoweb.org/launch#https://simonezleao.github.io/TRACE_ABM_model2/TRACE_model_v2_Web.nlogox)
 
-The model runs in your browser using NetLogo Web.
+Visit the [**TRACE v2 project website**](https://simonezleao.github.io/TRACE_ABM_model2/) for access to the model, user guide, sample simulation data, and trajectory-analysis materials.
 
-## Model file
+## Repository Contents
 
-The NetLogo Web-compatible model is available in this repository:
+| File | Description |
+|---|---|
+| `TRACE_model_v2.nlogox` | NetLogo Desktop version of TRACE v2 |
+| `TRACE_model_v2_Web.nlogox` | NetLogo Web-compatible version |
+| `TRACE_v02_UserGuide_Model.pdf` | User guide covering the model, instructions, authorship, and licence |
+| `TRACEv2_ModelRun_Results.zip` | Sample results from one simulation and its accompanying model configuration file |
+| `TRACEv2_TrajectoryAnalysis.zip` | Six R scripts for trajectory analysis and sample results from one simulation |
+| `index.html` | Public project landing page |
 
-`TRACE_model_v2_Web.nlogox`
+## Running the Model
+
+Use the desktop model with NetLogo Desktop or launch the web-compatible version through NetLogo Web using the link above. Consult the user guide for model details and instructions.
+
+## Reproducing the Trajectory Analysis
+
+The trajectory-analysis archive contains six R scripts and sample analysis results for one simulation. The sample model-run archive provides the corresponding simulation output and model configuration. Consult the user guide and scripts for the relevant workflow and requirements.
+
+## Authorship and Licensing
+
+Developed by Simone Z. Leao.
+
+Please consult the user guide for the model's licensing information.
 
 ## Citation
 
-Citation details and a permanent DOI will be added when the model is archived in Zenodo.
-
-
+Formal citation metadata and the DOI for this version will be provided following archival of a release in Zenodo.
